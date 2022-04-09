@@ -1,0 +1,17 @@
+body{
+    background: gray;
+}
+main{
+    padding: 15px;
+    background-color: wheat;
+    border-radius: 10px;
+    text-align: center;
+    margin: 0% 30%;
+    border: solid 1px
+}
+.resultado{
+    background-color: white;
+    margin: 10%;
+    border: solid 1px;
+    border-radius: 3px
+}
